@@ -48,7 +48,7 @@ nano deploy_klipper.sh
 ```bash
 #!/usr/bin/env bash
 # ==============================================================================
-# K1 Klipper Deployment & Python 3.13 Repair Script (Vibe Code Edition)
+# K1 Klipper Deployment & Python 3.13 Repair Script (New Edition)
 # Target Host: BigTreeTech CB1 running Armbian Linux (Debian 13 Trixie baseline)
 # ==============================================================================
 set -e # Exit immediately if any command fails
